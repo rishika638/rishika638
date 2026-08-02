@@ -130,15 +130,19 @@ I enjoy contributing to open-source projects and learning through real-world eng
 
 ---
 
-# GitHub Stats
+## Engineering Highlights
 
-<p align="center">
+✓ 35+ merged pull requests
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishika638&show_icons=true&theme=github_dark&hide_border=true"/>
+✓ GSSoC Contributor
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika638&layout=compact&theme=github_dark&hide_border=true"/>
+✓ Hacktoberfest Contributor
 
-</p>
+✓ Technical Core Member — ISSA Club
+
+✓ Backend-focused personal projects
+
+✓ Interested in Distributed Systems & Production Reliability
 
 ---
 
